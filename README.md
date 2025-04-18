@@ -1,4 +1,5 @@
 # TradingPositionSizeCalculator
+![image](https://github.com/user-attachments/assets/50e6b27f-aa70-4d13-869f-2334bd7b9279)
 
 # Position Size Calculator
 
