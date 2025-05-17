@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/50e6b27f-aa70-4d13-869f-2334bd7b9279)
 
 # Position Size Calculator
-
+https://tradingpositionsizecalculator.netlify.app
 ## About
 The Position Size Calculator is a tool designed to help traders determine the optimal position size for their trades. By utilizing essential risk management parameters, it offers clarity and guidance for better trading decisions.
 
